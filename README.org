@@ -1,0 +1,8 @@
+ws5000 - service for listening to ws5000 tcp weather messages and record in database
+
+* Install
+bundle install
+./install.sh
+* Running
+Note that the service will automatically listen once started.
+There is no need to run the command manually.
